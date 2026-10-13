@@ -1,0 +1,38 @@
+{
+  "id": "./",
+  "name": "Misi Alat Sekolah Ajaib",
+  "short_name": "Alat Ajaib",
+  "description": "Permainan RPG Bahasa Arab Tahun 2 – أحافظ على الأدوات الدراسية – SK Taman Sri Muda, Shah Alam.",
+  "lang": "ms-MY",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14142f",
+  "theme_color": "#201a46",
+  "orientation": "any",
+  "categories": [
+    "education",
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
